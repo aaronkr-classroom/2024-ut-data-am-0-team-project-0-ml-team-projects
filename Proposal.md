@@ -11,3 +11,6 @@
 - GUI 기반 어플리케이션 개발
 ## 사용하고싶은 데이터셋
 [keggle 대출 승인 예측](https://www.kaggle.com/competitions/playground-series-s4e10/overview)
+
+## 데이터 분석
+![KakaoTalk_Photo_2024-11-11-19-47-44](https://github.com/user-attachments/assets/4fe20b98-991d-4f3e-af80-85c830124444)
